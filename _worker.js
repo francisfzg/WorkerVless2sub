@@ -16,9 +16,9 @@ let addressesapi = [
 	'https://wenben-ehq.pages.dev/IP.txt?token=4352934',
 ];
 
-// 设置优选地址，不带端口号默认443，noTLS订阅生成
+// 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	//'www.visa.com.sg#官方优选域名',
+	'www.visa.com.sg#资源优选域名',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
 	    'time.cloudflare.com:80#优质资源',
